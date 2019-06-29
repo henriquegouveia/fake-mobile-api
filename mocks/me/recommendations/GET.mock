@@ -1,0 +1,77 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "personalRecommendationLists": [
+    {
+      "type": "accessories",
+      "productSummary": {
+        "productId": 795027,
+        "productName": "Philips FC9742/09 PowerPro Expert",
+        "availabilityState": 2,
+        "salesPriceIncVat": 134.99,
+        "primaryImageId": 915165,
+        "promoIcon": {
+          "type": "text",
+          "value": {
+            "text": "20,- cashback",
+            "displayStyle": "text"
+          }
+        },
+        "nextDayDelivery": false,
+        "reviewSummary": {
+          "reviewAverage": 8.9,
+          "reviewCount": 233
+        },
+        "productTypeSingular": "vacuum cleaner"
+      },
+      "productTypeSingular": "vacuum cleaner",
+      "accessoryGroups": [{
+        "title": "vacuum brushes",
+        "slug": "/philips-powerpro-expert-fc9742-09/stofzuigerborstels-philips",
+        "imageId": "68326",
+        "numberOfResults": 12
+      }, {
+        "title": "vacuum brushes 2",
+        "slug": "/philips-powerpro-expert-fc9742-09/stofzuigerborstels-philips",
+        "imageId": "68327",
+        "numberOfResults": 3
+      }]
+    },
+{
+      "type": "alternatives",
+      "productTypePlural": "vacuum cleaners",
+       "productSummary": {
+        "productId": 795027,
+        "productName": "Philips FC9742/09 PowerPro Expert",
+        "availabilityState": 2,
+        "salesPriceIncVat": 134.99,
+        "primaryImageId": 915165,
+        "promoIcon": {
+          "type": "text",
+          "value": {
+            "text": "20,- cashback",
+            "displayStyle": "text"
+          }
+        },
+        "nextDayDelivery": false,
+        "reviewSummary": {
+          "reviewAverage": 8.9,
+          "reviewCount": 233
+        },
+        "productTypeSingular": "Stofzuiger",
+        "productTypePlural": "Stofzuigers"
+      },
+      "alternativeProductIds": ["795031", "766628", "783282"]
+},
+    {
+      "type": "recentlyViewed",
+      "productIds": [
+        "819326",
+        "825429",
+        "693246",
+        "793664"
+      ]
+    }
+    ]
+}

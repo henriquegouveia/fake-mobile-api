@@ -1,0 +1,909 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+  "products": [{
+      "productId": 652783,
+      "productName": "Google Chromecast",
+      "reviewInformation": {
+        "reviews": [],
+        "reviewSummary": {
+          "reviewAverage": 9.3,
+          "reviewCount": 1387
+        }
+      },
+      "availabilityState": 4,
+      "salesPriceIncVat": 39.0,
+      "productImageIds": [443165, 443862, 443864, 518588, 485954, 443863],
+      "deliveredWith": ["power adapter", "instructions manual"],
+      "nextDayDelivery": true,
+      "cacheAge": 0
+    },
+    {
+      "productId": 652784,
+      "productName": "Apple TV",
+      "reviewInformation": {
+        "reviews": [],
+        "reviewSummary": {
+          "reviewAverage": 9.3,
+          "reviewCount": 1387
+        }
+      },
+      "availabilityState": 1,
+      "salesPriceIncVat": 399.0,
+      "productImageIds": [437011],
+      "nextDayDelivery": true,
+      "cacheAge": 0
+    },
+    {
+      "productId": 652785,
+      "productName": "Android TV",
+      "reviewInformation": {
+        "reviews": [],
+        "reviewSummary": {
+          "reviewAverage": 9.3,
+          "reviewCount": 1387
+        }
+      },
+      "availabilityState": 2,
+      "salesPriceIncVat": 150.0,
+      "productImageIds": [
+        422005
+      ],
+      "nextDayDelivery": true,
+      "cacheAge": 0
+    },
+    {
+      "productId": 733933,
+      "productName": "Apple iPhone 7",
+      "reviewInformation": {
+        "reviews": [],
+        "reviewSummary": {
+          "reviewAverage": 9.3,
+          "reviewCount": 1387
+        }
+      },
+      "availabilityState": 2,
+      "salesPriceIncVat": 809.0,
+      "productImageIds": [
+        568155
+      ],
+      "promoIcon": {
+        "type": "coolblues-choice"
+      },
+      "nextDayDelivery": true,
+      "cacheAge": 0
+    }
+  ],
+  "currentPage": 1,
+  "pageSize": 1,
+  "totalResults": 4,
+  "pageCount": 1,
+  "facets": [{
+      "values": [{
+          "id": "telefoonhoesjes",
+          "label": "Telefoonhoesjes",
+          "count": 234
+        },
+        {
+          "id": "datakabels",
+          "label": "Datakabels",
+          "count": 44
+        },
+        {
+          "id": "powerbanks",
+          "label": "Powerbanks",
+          "count": 48
+        },
+        {
+          "id": "thuisladers",
+          "label": "Thuisladers",
+          "count": 43
+        },
+        {
+          "id": "screenprotectors",
+          "label": "Screenprotectors voor mobiele telefoons",
+          "count": 25
+        },
+        {
+          "id": "mobiele-telefoons",
+          "label": "Mobiele telefoons",
+          "count": 16
+        },
+        {
+          "id": "kabel-converters",
+          "label": "Kabel converters",
+          "count": 7
+        },
+        {
+          "id": "autoladers",
+          "label": "Autoladers",
+          "count": 23
+        },
+        {
+          "id": "telefoonhouders",
+          "label": "Telefoonhouders",
+          "count": 7
+        },
+        {
+          "id": "cradles-docking-stations-voor-smartphones",
+          "label": "Docks voor smartphones & tablets",
+          "count": 9
+        },
+        {
+          "id": "telefoon-lenzen",
+          "label": "Telefoonlenzen",
+          "count": 6
+        },
+        {
+          "id": "geheugenkaartlezers",
+          "label": "Geheugenkaartlezers",
+          "count": 2
+        },
+        {
+          "id": "vr-brillen",
+          "label": "VR brillen",
+          "count": 1
+        },
+        {
+          "id": "lensfilters",
+          "label": "Lensfilters",
+          "count": 1
+        },
+        {
+          "id": "tablethoezen-met-toetsenbord",
+          "label": "Tablethoezen met toetsenbord",
+          "count": 1
+        }
+      ],
+      "displayName": "Categorie",
+      "slug": "producttype"
+    },
+    {
+      "values": [{
+          "id": "apple",
+          "label": "Apple",
+          "count": 64
+        },
+        {
+          "id": "valueline",
+          "label": "Valueline",
+          "count": 2
+        },
+        {
+          "id": "mophie",
+          "label": "Mophie",
+          "count": 3
+        },
+        {
+          "id": "wakawaka",
+          "label": "WakaWaka",
+          "count": 2
+        },
+        {
+          "id": "nordic-elements",
+          "label": "Nordic Elements",
+          "count": 9
+        },
+        {
+          "id": "tomtom",
+          "label": "TomTom",
+          "count": 1
+        },
+        {
+          "id": "leitz",
+          "label": "Leitz",
+          "count": 2
+        },
+        {
+          "id": "gear4",
+          "label": "Gear4",
+          "count": 9
+        },
+        {
+          "id": "mobiparts",
+          "label": "Mobiparts",
+          "count": 5
+        },
+        {
+          "id": "mobilize",
+          "label": "Mobilize",
+          "count": 1
+        },
+        {
+          "id": "olloclip",
+          "label": "Olloclip",
+          "count": 2
+        },
+        {
+          "id": "zens",
+          "label": "Zens",
+          "count": 2
+        },
+        {
+          "id": "fusechicken",
+          "label": "Fusechicken",
+          "count": 2
+        },
+        {
+          "id": "griffin",
+          "label": "Griffin",
+          "count": 5
+        },
+        {
+          "id": "bugatti",
+          "label": "Bugatti",
+          "count": 1
+        },
+        {
+          "id": "mujjo",
+          "label": "Mujjo",
+          "count": 4
+        },
+        {
+          "id": "usbepower",
+          "label": "USBEpower",
+          "count": 2
+        },
+        {
+          "id": "pac",
+          "label": "PAC",
+          "count": 3
+        },
+        {
+          "id": "photofast",
+          "label": "Photofast",
+          "count": 2
+        },
+        {
+          "id": "black-eye",
+          "label": "Black eye",
+          "count": 4
+        },
+        {
+          "id": "muvit",
+          "label": "Muvit",
+          "count": 1
+        },
+        {
+          "id": "lenovo",
+          "label": "Lenovo",
+          "count": 1
+        },
+        {
+          "id": "veripart",
+          "label": "Veripart",
+          "count": 1
+        },
+        {
+          "id": "huawei",
+          "label": "Huawei",
+          "count": 1
+        },
+        {
+          "id": "interphone",
+          "label": "Interphone",
+          "count": 2
+        },
+        {
+          "id": "anker",
+          "label": "Anker",
+          "count": 19
+        },
+        {
+          "id": "panzerglass",
+          "label": "PanzerGlass",
+          "count": 6
+        },
+        {
+          "id": "azuri",
+          "label": "Azuri",
+          "count": 37
+        },
+        {
+          "id": "belkin",
+          "label": "Belkin",
+          "count": 37
+        },
+        {
+          "id": "trust",
+          "label": "Trust",
+          "count": 3
+        },
+        {
+          "id": "otterbox",
+          "label": "Otterbox",
+          "count": 29
+        },
+        {
+          "id": "xtorm",
+          "label": "Xtorm",
+          "count": 19
+        },
+        {
+          "id": "bluebuilt",
+          "label": "BlueBuilt",
+          "count": 6
+        },
+        {
+          "id": "spigen",
+          "label": "Spigen",
+          "count": 19
+        },
+        {
+          "id": "decoded",
+          "label": "Decoded",
+          "count": 42
+        },
+        {
+          "id": "valenta",
+          "label": "Valenta",
+          "count": 13
+        },
+        {
+          "id": "tech21",
+          "label": "Tech21",
+          "count": 7
+        },
+        {
+          "id": "dbramante1928",
+          "label": "dbramante1928",
+          "count": 9
+        },
+        {
+          "id": "hq",
+          "label": "HQ",
+          "count": 1
+        },
+        {
+          "id": "aukey",
+          "label": "Aukey",
+          "count": 9
+        },
+        {
+          "id": "lionheart",
+          "label": "Lionheart",
+          "count": 1
+        },
+        {
+          "id": "lifeproof",
+          "label": "Lifeproof",
+          "count": 10
+        },
+        {
+          "id": "invisibleshield",
+          "label": "InvisibleSHIELD",
+          "count": 4
+        },
+        {
+          "id": "poweroak",
+          "label": "PowerOak",
+          "count": 4
+        },
+        {
+          "id": "samsung",
+          "label": "Samsung",
+          "count": 3
+        },
+        {
+          "id": "brodit",
+          "label": "Brodit",
+          "count": 5
+        },
+        {
+          "id": "xqisit",
+          "label": "Xqisit",
+          "count": 6
+        },
+        {
+          "id": "urban-armor-gear",
+          "label": "Urban Armor Gear",
+          "count": 20
+        },
+        {
+          "id": "iwalk",
+          "label": "iWalk",
+          "count": 8
+        },
+        {
+          "id": "garmin",
+          "label": "Garmin",
+          "count": 1
+        }
+      ],
+      "displayName": "Merk",
+      "slug": "merk"
+    },
+    {
+      "values": [{
+          "id": "blauw",
+          "label": "Blauw",
+          "count": 22
+        },
+        {
+          "id": "bruin",
+          "label": "Bruin",
+          "count": 36
+        },
+        {
+          "id": "creme",
+          "label": "Cr\u00e8me",
+          "count": 1
+        },
+        {
+          "id": "geel",
+          "label": "Geel",
+          "count": 4
+        },
+        {
+          "id": "goud",
+          "label": "Goud",
+          "count": 10
+        },
+        {
+          "id": "grijs",
+          "label": "Grijs",
+          "count": 30
+        },
+        {
+          "id": "groen",
+          "label": "Groen",
+          "count": 10
+        },
+        {
+          "id": "meerkleurig",
+          "label": "Meerkleurig",
+          "count": 3
+        },
+        {
+          "id": "oranje",
+          "label": "Oranje",
+          "count": 9
+        },
+        {
+          "id": "paars",
+          "label": "Paars",
+          "count": 2
+        },
+        {
+          "id": "rood",
+          "label": "Rood",
+          "count": 17
+        },
+        {
+          "id": "rose-goud",
+          "label": "Ros\u00e9 Goud",
+          "count": 11
+        },
+        {
+          "id": "roze",
+          "label": "Roze",
+          "count": 16
+        },
+        {
+          "id": "transparant",
+          "label": "Transparant",
+          "count": 49
+        },
+        {
+          "id": "wit",
+          "label": "Wit",
+          "count": 69
+        },
+        {
+          "id": "zilver",
+          "label": "Zilver",
+          "count": 22
+        },
+        {
+          "id": "zwart",
+          "label": "Zwart",
+          "count": 167
+        }
+      ],
+      "displayName": "Kleur",
+      "slug": "kleur"
+    },
+    {
+      "values": [{
+          "id": "apple-iphone-6",
+          "label": "Apple iPhone 6",
+          "count": 193
+        },
+        {
+          "id": "apple-iphone-6-plus",
+          "label": "Apple iPhone 6 Plus",
+          "count": 182
+        },
+        {
+          "id": "apple-iphone-6s",
+          "label": "Apple iPhone 6s",
+          "count": 220
+        },
+        {
+          "id": "apple-iphone-6s-plus",
+          "label": "Apple iPhone 6s Plus",
+          "count": 186
+        },
+        {
+          "id": "apple-iphone-7",
+          "label": "Apple iPhone 7",
+          "count": 350
+        },
+        {
+          "id": "apple-iphone-7-plus",
+          "label": "Apple iPhone 7 Plus",
+          "count": 273
+        },
+        {
+          "id": "apple-iphone-7s",
+          "label": "Apple iPhone 8",
+          "count": 334
+        },
+        {
+          "id": "apple-iphone-7s-plus",
+          "label": "Apple iPhone 8 Plus",
+          "count": 264
+        },
+        {
+          "id": "apple-iphone-se",
+          "label": "Apple iPhone SE",
+          "count": 160
+        },
+        {
+          "id": "apple-iphone-se-2",
+          "label": "Apple iPhone SE 2",
+          "count": 65
+        },
+        {
+          "id": "apple-iphone-8",
+          "label": "Apple iPhone X",
+          "count": 175
+        },
+        {
+          "id": "apple-iphone-xr",
+          "label": "Apple iPhone Xr",
+          "count": 83
+        },
+        {
+          "id": "apple-iphone-xs",
+          "label": "Apple iPhone Xs",
+          "count": 89
+        },
+        {
+          "id": "apple-iphone-xs-max",
+          "label": "Apple iPhone Xs Max",
+          "count": 89
+        },
+        {
+          "id": "huawei-p-smart",
+          "label": "Huawei P Smart",
+          "count": 87
+        },
+        {
+          "id": "huawei-p10",
+          "label": "Huawei P10",
+          "count": 86
+        },
+        {
+          "id": "huawei-p10-lite",
+          "label": "Huawei P10 Lite",
+          "count": 90
+        },
+        {
+          "id": "huawei-p10-plus",
+          "label": "Huawei P10 Plus",
+          "count": 86
+        },
+        {
+          "id": "huawei-p20",
+          "label": "Huawei P20",
+          "count": 88
+        },
+        {
+          "id": "huawei-p20-lite",
+          "label": "Huawei P20 Lite",
+          "count": 88
+        },
+        {
+          "id": "huawei-p20-plus",
+          "label": "Huawei P20 Pro",
+          "count": 84
+        },
+        {
+          "id": "lg-g6",
+          "label": "LG G6",
+          "count": 84
+        },
+        {
+          "id": "motorola-moto-g5-plus",
+          "label": "Motorola Moto G5 Plus",
+          "count": 92
+        },
+        {
+          "id": "motorola-moto-g5s",
+          "label": "Motorola Moto G5S",
+          "count": 90
+        },
+        {
+          "id": "motorola-moto-g5s-plus",
+          "label": "Motorola Moto G5S Plus",
+          "count": 90
+        },
+        {
+          "id": "nokia-2",
+          "label": "Nokia 2",
+          "count": 90
+        },
+        {
+          "id": "nokia-5",
+          "label": "Nokia 5",
+          "count": 90
+        },
+        {
+          "id": "nokia-6-2018",
+          "label": "Nokia 6 (2018)",
+          "count": 84
+        },
+        {
+          "id": "nokia-7-plus",
+          "label": "Nokia 7 Plus",
+          "count": 85
+        },
+        {
+          "id": "nokia-8",
+          "label": "Nokia 8",
+          "count": 86
+        },
+        {
+          "id": "oneplus-5",
+          "label": "OnePlus 5",
+          "count": 83
+        },
+        {
+          "id": "oneplus-5t",
+          "label": "OnePlus 5T",
+          "count": 86
+        },
+        {
+          "id": "samsung-galaxy-a8-2018",
+          "label": "Samsung Galaxy A8 (2018)",
+          "count": 82
+        },
+        {
+          "id": "samsung-galaxy-j3-2016",
+          "label": "Samsung Galaxy J3 (2016)",
+          "count": 91
+        },
+        {
+          "id": "samsung-galaxy-j3-2017",
+          "label": "Samsung Galaxy J3 (2017)",
+          "count": 88
+        },
+        {
+          "id": "samsung-galaxy-j5-2016",
+          "label": "Samsung Galaxy J5 (2016)",
+          "count": 90
+        },
+        {
+          "id": "samsung-galaxy-j5-2017",
+          "label": "Samsung Galaxy J5 (2017)",
+          "count": 88
+        },
+        {
+          "id": "samsung-galaxy-j7-2016",
+          "label": "Samsung Galaxy J7 (2016)",
+          "count": 91
+        },
+        {
+          "id": "samsung-galaxy-j7-2017",
+          "label": "Samsung Galaxy J7 (2017)",
+          "count": 92
+        },
+        {
+          "id": "samsung-galaxy-note-8",
+          "label": "Samsung Galaxy Note 8",
+          "count": 88
+        },
+        {
+          "id": "samsung-galaxy-s7",
+          "label": "Samsung Galaxy S7",
+          "count": 98
+        },
+        {
+          "id": "samsung-galaxy-s7-edge",
+          "label": "Samsung Galaxy S7 Edge",
+          "count": 98
+        },
+        {
+          "id": "samsung-galaxy-s8",
+          "label": "Samsung Galaxy S8",
+          "count": 97
+        },
+        {
+          "id": "samsung-galaxy-s8-plus",
+          "label": "Samsung Galaxy S8 Plus",
+          "count": 94
+        },
+        {
+          "id": "samsung-galaxy-s9",
+          "label": "Samsung Galaxy S9",
+          "count": 94
+        },
+        {
+          "id": "samsung-galaxy-s9-plus",
+          "label": "Samsung Galaxy S9 Plus",
+          "count": 95
+        },
+        {
+          "id": "sony-xperia-l1",
+          "label": "Sony Xperia L1",
+          "count": 82
+        },
+        {
+          "id": "sony-xperia-xa2",
+          "label": "Sony Xperia XA2",
+          "count": 83
+        },
+        {
+          "id": "sony-xperia-xa2-ultra",
+          "label": "Sony Xperia XA2 Ultra",
+          "count": 88
+        },
+        {
+          "id": "sony-xperia-xz2-compact",
+          "label": "Sony Xperia XZ2 Compact",
+          "count": 87
+        }
+      ],
+      "displayName": "Geschikt voor model",
+      "slug": "geschikt-voor-model"
+    },
+    {
+      "values": [{
+          "id": "glas",
+          "label": "Glas",
+          "count": 40
+        },
+        {
+          "id": "hout",
+          "label": "Hout",
+          "count": 5
+        },
+        {
+          "id": "kunststof",
+          "label": "Kunststof",
+          "count": 269
+        },
+        {
+          "id": "leer",
+          "label": "Leer",
+          "count": 93
+        },
+        {
+          "id": "metaal",
+          "label": "Metaal",
+          "count": 33
+        },
+        {
+          "id": "textiel",
+          "label": "Textiel",
+          "count": 10
+        }
+      ],
+      "displayName": "Materiaal",
+      "slug": "materiaal"
+    },
+    {
+      "values": [{
+          "id": "actie-cameras",
+          "label": "Action camera's",
+          "count": 2
+        },
+        {
+          "id": "dashcam",
+          "label": "Dashcams",
+          "count": 3
+        },
+        {
+          "id": "fotocamera",
+          "label": "Fotocamera",
+          "count": 25
+        },
+        {
+          "id": "laptop",
+          "label": "Laptop",
+          "count": 20
+        },
+        {
+          "id": "mp3-speler",
+          "label": "MP3-speler",
+          "count": 32
+        },
+        {
+          "id": "navigatiesysteem",
+          "label": "Navigatiesysteem",
+          "count": 5
+        },
+        {
+          "id": "smartphone",
+          "label": "Smartphone",
+          "count": 132
+        },
+        {
+          "id": "smartwatch",
+          "label": "Smartwatch",
+          "count": 28
+        },
+        {
+          "id": "tablet",
+          "label": "Tablet",
+          "count": 101
+        },
+        {
+          "id": "videocamera",
+          "label": "Videocamera's",
+          "count": 24
+        },
+        {
+          "id": "ereader",
+          "label": "eReader",
+          "count": 22
+        }
+      ],
+      "displayName": "Compatibel met producttype",
+      "slug": "compatibel-met-producttype"
+    },
+    {
+      "values": [{
+        "id": "ja",
+        "label": "Ja",
+        "count": 45
+      }],
+      "displayName": "Coolblue's Keuze",
+      "slug": "coolblues-keuze"
+    },
+    {
+      "values": [{
+          "id": "0",
+          "label": "Toon alles",
+          "count": 467
+        },
+        {
+          "id": "1",
+          "label": "1 ster en meer",
+          "count": 397
+        },
+        {
+          "id": "2",
+          "label": "2 sterren en meer",
+          "count": 397
+        },
+        {
+          "id": "3",
+          "label": "3 sterren en meer",
+          "count": 394
+        },
+        {
+          "id": "4",
+          "label": "4 sterren en meer",
+          "count": 376
+        },
+        {
+          "id": "5",
+          "label": "5 sterren",
+          "count": 104
+        }
+      ],
+      "displayName": "Reviewscore",
+      "slug": "minimum-review-sterren"
+    },
+    {
+      "minValue": 14.99,
+      "maxValue": 719,
+      "displayName": "Prijs",
+      "slug": "prijs"
+    }
+  ],
+  "filters": []
+}

@@ -1,0 +1,38 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+[{
+	"productId": 693246,
+	"productName": "Bosch WAN28242NL",
+	"availabilityState": 3,
+	"salesPriceIncVat": 479,
+	"primaryImageId": 1177690,
+	"nextDayDelivery": true,
+	"reviewSummary": {
+		"reviewAverage": 9.1,
+		"reviewCount": 873
+	}
+}, {
+	"productId": 773676,
+	"productName": "Bosch SMV25AX01N",
+	"availabilityState": 2,
+	"salesPriceIncVat": 449,
+	"listPriceIncVat": 469,
+	"primaryImageId": 754912,
+	"nextDayDelivery": true,
+	"reviewSummary": {
+		"reviewAverage": 9.1,
+		"reviewCount": 202
+	}
+}, {
+	"productId": 783282,
+	"productName": "Oral-B PRO 2 2500",
+	"availabilityState": 2,
+	"salesPriceIncVat": 46.5,
+	"primaryImageId": 806580,
+	"nextDayDelivery": true,
+	"reviewSummary": {
+		"reviewAverage": 9.1,
+		"reviewCount": 660
+	}
+}]

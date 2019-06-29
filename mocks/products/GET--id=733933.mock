@@ -1,0 +1,334 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+[
+    {
+      "productId": 733933,
+      "productName": "Apple iPhone 7 128GB Zwart",
+      "productText": "<p>Maak je graag foto's met je smartphone? Dan is de iPhone 7 een aanrader. De 12 megapixel camera wordt ondersteund door optische beeldstabilisatie. Ook zorgt het ervoor dat de sensor meer licht opvangt waardoor foto's scherp en helder zijn. Hierdoor heb je geen last van bewogen foto's. Vage selfies behoren tot het verleden met de nieuwe 7 megapixel selfie camera. Wat ook fijn is? Met de iPhone 7 kun je bellen in de regen. Het toestel is namelijk waterdicht.<\/p>",
+      "pickupInStoreAvailable": true,
+      "installationServices": [
+        {
+          "productId": 90210,
+          "productTypeId": 100101,
+          "serviceType": 5,
+          "productName": "Product laten inbouwen",
+          "salesPriceIncVat": 79.99,
+          "checkedByDefault": false,
+          "nextDayDelivery": true
+        },
+        {
+          "productId": 99999,
+          "productTypeId": 100111,
+          "serviceType": 5,
+          "productName": "Product laten inbouwen",
+          "salesPriceIncVat": 19.99,
+          "checkedByDefault": true,
+          "nextDayDelivery": true
+        },
+        {
+          "productId": 88888,
+          "productTypeId": 100222,
+          "serviceType": 5,
+          "productName": "Product laten inbouwen",
+          "salesPriceIncVat": 34.99,
+          "checkedByDefault": true,
+          "nextDayDelivery": true
+        }
+      ],
+      "alternativeProductIds": ["693246", "773676", "783282"],
+      "reviewInformation": {
+        "reviews": [
+          {
+            "reviewId": 6819963,
+            "pros": [
+              "Mooi ontwerp",
+              "Nieuwe home button voelt gaaf"
+            ],
+            "cons": [
+              "Batterij gaat niet merkbaar langer mee (dan 6S)"
+            ],
+            "creationDate": "2016-09-17T12:19:23+00:00",
+            "creatorName": "Ties Schwertasek",
+            "description": "Heb hem nu een dag. Bevalt tot nu toe erg goed. Vooral de home button is een gave update.",
+            "title": "Cool :)",
+            "rating": 8.8,
+            "languageCode": "nl"
+          }
+        ],
+        "reviewSummary": {
+          "reviewAverage": 9.4,
+          "reviewCount": 224
+        }
+      },
+      "USPs": [
+        "iOS 10",
+        "4,7 inch Retina HD scherm",
+        "128 GB opslagcapaciteit"
+      ],
+      "pros": [
+        "Dankzij de optische beeldstabilisatie maak je scherpe foto's.",
+        "Het toestel is waterdicht, waardoor bellen in de regen geen enkel probleem is.",
+        "Met 3D Touch bedien je je iPhone aan de hand van de druk die je uitoefent op het scherm."
+      ],
+      "cons": [
+        "De cameralens zorgt voor een kleine uitstulping aan de achterkant, wat afdoet aan het afgeronde design."
+      ],
+      "availabilityState": 2,
+      "salesPriceIncVat": 819,
+      "salesPriceExVat": 676.8595,
+      "productImageIds": [
+        568155,
+        567205,
+        566666,
+        566667,
+        568118
+      ],
+      "deliveredWith": [
+        "Oplader",
+        "Lightning oordopjes",
+        "Lightning naar 3,5 mm aansluiting",
+        "Handleiding"
+      ],
+      "specificationSummary": [
+        {
+          "name": "Schermdiagonaal",
+          "value": "4,7 inch"
+        },
+        {
+          "name": "Versie iOS",
+          "value": "iOS 10"
+        },
+        {
+          "name": "Aantal megapixels achterkant camera",
+          "value": "12 MP"
+        },
+        {
+          "name": "RAM-geheugen",
+          "value": "2 GB"
+        },
+        {
+          "name": "Voorkant Camera",
+          "value": true
+        }
+      ],
+      "promoIcon": {
+        "text": "een topklasse iPhone",
+        "type": "coolblues-choice"
+      },
+      "accessoryGroups": [
+        {
+          "title": "oordopjes",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/oordopjes-met-apple-lightning-aansluiting",
+          "imageId": "602430",
+          "numberOfResults": 2
+        },
+        {
+          "title": "Kabel converters",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/kabel-converters-met-apple-lightning-aansluiting",
+          "imageId": "574313",
+          "numberOfResults": 7
+        },
+        {
+          "title": "telefoonhouders",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/universele-telefoonhouders",
+          "imageId": "1174520",
+          "numberOfResults": 28
+        },
+        {
+          "title": "Datakabels",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/apple-lightning-datakabels",
+          "imageId": "185548",
+          "numberOfResults": 41
+        },
+        {
+          "title": "oordopjes",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/bluetooth-oordopjes",
+          "imageId": "568135",
+          "numberOfResults": 153
+        },
+        {
+          "title": "screenprotectors voor mobiele telefoons",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/screenprotectors-voor-de-apple-iphone-7",
+          "imageId": "648798",
+          "numberOfResults": 15
+        },
+        {
+          "title": "hoofdtelefoons",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/bluetooth-hoofdtelefoons",
+          "imageId": "1116281",
+          "numberOfResults": 168
+        },
+        {
+          "title": "thuisladers",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/kabels-thuislader-geschikt-voor-iphone-7",
+          "imageId": "1111499",
+          "numberOfResults": 40
+        },
+        {
+          "title": "wifi speakers",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/draadloze-speakers-voor-apple",
+          "imageId": "905304",
+          "numberOfResults": 65
+        },
+        {
+          "title": "powerbanks",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/powerbanks-voor-smartphones",
+          "imageId": "582100",
+          "numberOfResults": 92
+        },
+        {
+          "title": "Carkits",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/carkits",
+          "imageId": "345182",
+          "numberOfResults": 8
+        },
+        {
+          "title": "schoonmaakdoeken voor beeldschermen",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/schoonmaakdoeken-gemaakt-voor-beeldschermen",
+          "imageId": "1176316",
+          "numberOfResults": 1
+        },
+        {
+          "title": "simkaarten",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/simkaarten",
+          "imageId": "606044",
+          "numberOfResults": 4
+        },
+        {
+          "title": "cameramicrofoons",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/cameramicrofoons-voor-smartphones",
+          "imageId": "947836",
+          "numberOfResults": 9
+        },
+        {
+          "title": "IP-camera's",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/ip-cameras-compatibel-met-smartphones-en-apps",
+          "imageId": "461382",
+          "numberOfResults": 118
+        },
+        {
+          "title": "Autoladers",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/kabels-autolader-geschikt-voor-iphone-7",
+          "imageId": "479155",
+          "numberOfResults": 26
+        },
+        {
+          "title": "Selfie sticks",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/selfie-sticks-voor-smartphones",
+          "imageId": "413019",
+          "numberOfResults": 6
+        },
+        {
+          "title": "bluetooth speakers",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/bluetooth-speakers",
+          "imageId": "518919",
+          "numberOfResults": 223
+        },
+        {
+          "title": "Autoladers",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/autoladers-zonder-kabel",
+          "imageId": "479155",
+          "numberOfResults": 23
+        },
+        {
+          "title": "telefoonhoesjes",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/telefoonhoesjes-voor-de-apple-iphone-7",
+          "imageId": "893383",
+          "numberOfResults": 221
+        },
+        {
+          "title": "VR brillen",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/vr-brillen-compatibel-met-ios",
+          "imageId": "677369",
+          "numberOfResults": 4
+        },
+        {
+          "title": "docks voor smartphones",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/cradles-en-docks-voor-smartphones-geschikt-voor-iphone-7",
+          "imageId": "573166",
+          "numberOfResults": 14
+        },
+        {
+          "title": "Smartphone gereedschap",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/smartphone-en-mobiele-telefoons-gereedschap",
+          "imageId": "641640",
+          "numberOfResults": 2
+        },
+        {
+          "title": "telefoonlenzen",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/telefoonlenzen-geschikt-voor-iphone-7",
+          "imageId": "1181311",
+          "numberOfResults": 5
+        },
+        {
+          "title": "Sportarmbanden",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/universele-sportarmbanden",
+          "imageId": "593816",
+          "numberOfResults": 1
+        },
+        {
+          "title": "Sportarmbanden",
+          "slug": "\/apple-iphone-7-128-gb-zwart\/sportarmbanden-voor-de-apple-iphone-7",
+          "imageId": "762783",
+          "numberOfResults": 1
+        }
+      ],
+      "productCollections": [
+        {
+          "discriminantId": 733933,
+          "discriminant": "In de variant (iPhones)",
+          "products": [
+            {
+              "productId": 733933,
+              "label": "32 GB - Black"
+            },
+            {
+              "productId": 793971,
+              "label": "32 GB - Jet Black"
+            },
+            {
+              "productId": 793971,
+              "label": "32 GB - Silver"
+            },
+            {
+              "productId": 793971,
+              "label": "32 GB - Gold"
+            },
+            {
+              "productId": 793971,
+              "label": "32 GB - Rose Gold"
+            },
+            {
+              "productId": 793971,
+              "label": "128 GB - Black"
+            },
+            {
+              "productId": 793971,
+              "label": "128 GB - Jet Black"
+            },
+            {
+              "productId": 793971,
+              "label": "128 GB - Silver"
+            },
+            {
+              "productId": 793971,
+              "label": "128 GB - Gold"
+            },
+            {
+              "productId": 793971,
+              "label": "128 GB - Rose Gold"
+            },
+            {
+              "productId": 793971,
+              "label": "Combipakket - 32 GB - Zwart + Silicone Back Cover"
+            },
+            {
+              "productId": 793971,
+              "label": "Combipakket - 32 GB - Zwart + Leather Back Cover"
+            }
+          ]
+        }
+      ]
+    }
+  ]

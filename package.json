@@ -1,0 +1,26 @@
+{
+  "name": "fake-mobile-api",
+  "version": "1.0.0",
+  "description": "Fake mobile api",
+  "main": "index.js",
+  "dependencies": {
+    "mockserver": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquegouveia/fake-mobile-api.git"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "Henrique Gouveia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquegouveia/fake-mobile-api/issues"
+  },
+  "homepage": "https://github.com/henriquegouveia/fake-mobile-api#readme"
+}

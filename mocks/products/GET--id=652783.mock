@@ -1,0 +1,75 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+[
+    {
+      "productId": 652783,
+      "productName": "Google Chromecast",
+      "productText": "Nice product to connect to your TV.",
+      "pickupInStoreAvailable": true,
+      "reviewInformation": {
+        "reviews": [
+          {
+            "reviewId": 1234567,
+            "pros": [
+              "Small",
+              "Fast",
+              "Cheap"
+            ],
+            "cons": [
+              "Geen"
+            ],
+            "creationDate": "1970-01-01T00:00:00+00:00",
+            "creatorName": "Jan",
+            "description": "I really like this gadget.",
+            "title": "Awesome",
+            "rating": 8.4,
+            "languageCode": "nl"
+          }
+        ],
+        "reviewSummary": {
+          "reviewAverage": 9.3,
+          "reviewCount": 123
+        }
+      },
+      "USPs": [],
+      "pros": [
+        "You can connect your phone to the TV.",
+        "Works for iOS and Android.",
+        "For any TV with HDMI."
+      ],
+      "cons": [
+        "Not 4k ready."
+      ],
+      "availabilityState": 2,
+      "salesPriceIncVat": 39.0,
+      "salesPriceExVat": 39.0,
+      "productImageIds": [
+        443165,
+        443862,
+        443864,
+        518588,
+        485954,
+        443863
+      ],
+      "deliveredWith": [
+        "power adapter",
+        "instructions manual"
+      ],
+      "mayBeSoldInApp": true,
+      "specificationSummary": [
+        {
+          "name": "Specification 2",
+          "value": "Specification 2 decription"
+        },
+        {
+          "name": "Specification 1",
+          "value": "Specification 1 description"
+        }
+      ],
+      "promoIcon": {
+        "type": "action-price",
+        "text": "aanbieding"
+      }
+    }
+  ]
