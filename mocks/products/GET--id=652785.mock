@@ -1,0 +1,43 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+	[
+    {
+      "productId": 652785,
+      "productName": "Android TV",
+      "productText": "Nice product to connect to your TV.",
+      "pickupInStoreAvailable": true,
+      "reviewInformation": {},
+      "USPs": [],
+      "pros": [
+        "You can connect your phone to the TV.",
+        "Works for Android.",
+        "For any TV with HDMI."
+      ],
+      "cons": [
+        "Does not work for iOS."
+      ],
+      "availabilityState": 2,
+      "salesPriceIncVat": 150.0,
+      "salesPriceExVat": 150.0,
+      "productImageIds": [
+        422005
+      ],
+      "deliveredWith": [],
+      "mayBeSoldInApp": true,
+      "specificationSummary": [
+        {
+          "name": "Specification 2",
+          "value": "Specification 2 decription"
+        },
+        {
+          "name": "Specification 1",
+          "value": "Specification 1 description"
+        }
+      ],
+      "promoIcon": {
+        "type": "pre-order",
+        "text": "pre-order"
+      }
+    }
+  ]
