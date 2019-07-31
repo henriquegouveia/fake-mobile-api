@@ -1,9 +1,0 @@
-version: "2.3"
-
-services:
-  fake-mobile-api:
-    container_name: fake-mobile-api
-    image: fake-mobile-api
-    build: .
-    ports:
-      - "8081:8081"

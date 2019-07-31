@@ -3,7 +3,7 @@
 SHELL := /bin/bash
 
 install:
-	brew cask install docker
+	brew install node
+	npm install -g mockserver
 setup:
-	docker-compose down
-	docker-compose up -d --build
+	nohup node server.js >> out.log &
