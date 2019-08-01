@@ -7,6 +7,28 @@ Content-Type: application/json; charset=utf-8
       "productName": "Apple iPhone 7 128GB Zwart",
       "productText": "<p>Maak je graag foto's met je smartphone? Dan is de iPhone 7 een aanrader. De 12 megapixel camera wordt ondersteund door optische beeldstabilisatie. Ook zorgt het ervoor dat de sensor meer licht opvangt waardoor foto's scherp en helder zijn. Hierdoor heb je geen last van bewogen foto's. Vage selfies behoren tot het verleden met de nieuwe 7 megapixel selfie camera. Wat ook fijn is? Met de iPhone 7 kun je bellen in de regen. Het toestel is namelijk waterdicht.<\/p>",
       "pickupInStoreAvailable": true,
+      "subProducts": [
+        {
+          "productId": "123456",
+          "primaryProductImageId": "919191",
+          "productName": "iPhone XS UltraRare Edition",
+          "deliveredWith": ["manual", "cable"],
+          "productManual": {
+            "url": "https://example.com/delivered.pdf",
+            "deliveredWithIndex":0
+          }
+        },
+        {
+          "productId": "654321",
+          "primaryProductImageId": "919192",
+          "productName": "Quantum Headphones",
+          "deliveredWith": ["cable", "adapter", "dongle", "manual"],
+          "productManual": {
+            "url": "https://example.com/delivered.pdf",
+            "deliveredWithIndex": 3
+          }
+        }
+      ],
       "installationServices": [
         {
           "productId": 90210,
