@@ -4,7 +4,7 @@
   "description": "Fake mobile api",
   "main": "index.js",
   "dependencies": {
-    "mockserver": "^3.0.0"
+    "mockserver": "^3.1.0"
   },
   "devDependencies": {},
   "scripts": {
