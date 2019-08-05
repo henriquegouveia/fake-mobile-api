@@ -1,0 +1,1580 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+  {
+ 	"products": [{
+ 		"productId": 793664,
+ 		"productName": "Apple iPhone 8 64GB Space Gray",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.2,
+ 				"reviewCount": 706
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,5 inch (14 cm) en kleiner", "Totale opslagcapaciteit: 64 GB", "Beeldscherm kwaliteit: Goed", "Snelheidsklasse: Standaard", "Batterijprestatie: Standaard", "Gebruiksgemak volgens klanten: Uitstekend", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Nee", "Vingerafdruk-identiteitssensor: Ja"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 644,
+ 		"productImageIds": [1033402],
+ 		"coolbluesChoiceInformationTitle": "een middenklasse iPhone",
+ 		"promoIcon": {
+ 			"type": "coolblues-choice"
+ 		},
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,5 inch (14 cm) en kleiner"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Nee"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Ja"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819957,
+ 		"productName": "Apple iPhone Xr 128 GB Zwart",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.4,
+ 				"reviewCount": 359
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 128 GB", "Camerakwaliteit: Zeer goed", "Beeldscherm kwaliteit: Standaard", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 885,
+ 		"productImageIds": [1121107],
+ 		"coolbluesChoiceInformationTitle": "een iPhone met de beste batterijduur",
+ 		"promoIcon": {
+ 			"type": "coolblues-choice"
+ 		},
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["128 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819326,
+ 		"productName": "Apple iPhone Xs 256 GB Space Gray",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9,
+ 				"reviewCount": 158
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 256 GB", "Camerakwaliteit: Uitstekend", "Beeldscherm kwaliteit: Uitstekend", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 1329,
+ 		"productImageIds": [1121565],
+ 		"coolbluesChoiceInformationTitle": "een topklasse iPhone",
+ 		"promoIcon": {
+ 			"type": "coolblues-choice"
+ 		},
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["256 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819345,
+ 		"productName": "Apple iPhone Xr 64 GB Zwart",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.4,
+ 				"reviewCount": 359
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 64 GB", "Camerakwaliteit: Zeer goed", "Beeldscherm kwaliteit: Standaard", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 819,
+ 		"productImageIds": [1121105],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 713062,
+ 		"productName": "Apple iPhone 7 32GB Zwart",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.3,
+ 				"reviewCount": 1400
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,5 inch (14 cm) en kleiner", "Totale opslagcapaciteit: 32 GB", "Camerakwaliteit: Goed", "Beeldscherm kwaliteit: Matig", "Snelheidsklasse: Standaard", "Batterijprestatie: Standaard", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Nee", "Vingerafdruk-identiteitssensor: Ja"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 479,
+ 		"productImageIds": [985096],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,5 inch (14 cm) en kleiner"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["32 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Matig"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Nee"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Ja"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 648317,
+ 		"productName": "Apple iPhone 6s 32GB Space Gray",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.2,
+ 				"reviewCount": 1485
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,5 inch (14 cm) en kleiner", "Totale opslagcapaciteit: 32 GB", "Camerakwaliteit: Goed", "Beeldscherm kwaliteit: Matig", "Snelheidsklasse: Standaard", "Batterijprestatie: Standaard", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zwart", "Waterbestendig: Nee", "Dual SIM: Nee", "Vingerafdruk-identiteitssensor: Ja"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 350,
+ 		"productImageIds": [1014060],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,5 inch (14 cm) en kleiner"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["32 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Matig"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Nee"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Nee"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Ja"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 793665,
+ 		"productName": "Apple iPhone 8 64GB Zilver",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.2,
+ 				"reviewCount": 706
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,5 inch (14 cm) en kleiner", "Totale opslagcapaciteit: 64 GB", "Beeldscherm kwaliteit: Goed", "Snelheidsklasse: Standaard", "Batterijprestatie: Standaard", "Gebruiksgemak volgens klanten: Uitstekend", "Kleur: Zilver", "Waterbestendig: Ja", "Dual SIM: Nee", "Vingerafdruk-identiteitssensor: Ja"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 649,
+ 		"productImageIds": [1034380],
+ 		"coolbluesChoiceInformationTitle": "een middenklasse iPhone",
+ 		"promoIcon": {
+ 			"type": "coolblues-choice"
+ 		},
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,5 inch (14 cm) en kleiner"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zilver"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Nee"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Ja"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819956,
+ 		"productName": "Apple iPhone Xr 128 GB Wit",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.4,
+ 				"reviewCount": 359
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 128 GB", "Camerakwaliteit: Zeer goed", "Beeldscherm kwaliteit: Standaard", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Wit", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 899,
+ 		"productImageIds": [1121127],
+ 		"coolbluesChoiceInformationTitle": "een iPhone met de beste batterijduur",
+ 		"promoIcon": {
+ 			"type": "coolblues-choice"
+ 		},
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["128 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Wit"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819300,
+ 		"productName": "Apple iPhone Xs 64 GB Space Gray",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9,
+ 				"reviewCount": 158
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 64 GB", "Camerakwaliteit: Uitstekend", "Beeldscherm kwaliteit: Uitstekend", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 1099,
+ 		"productImageIds": [1121546],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819327,
+ 		"productName": "Apple iPhone Xs 256 GB Goud",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9,
+ 				"reviewCount": 158
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 256 GB", "Camerakwaliteit: Uitstekend", "Beeldscherm kwaliteit: Uitstekend", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Goud", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 1329,
+ 		"productImageIds": [1121571],
+ 		"coolbluesChoiceInformationTitle": "een topklasse iPhone",
+ 		"promoIcon": {
+ 			"type": "coolblues-choice"
+ 		},
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["256 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Goud"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 793666,
+ 		"productName": "Apple iPhone 8 64GB Goud",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.2,
+ 				"reviewCount": 706
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,5 inch (14 cm) en kleiner", "Totale opslagcapaciteit: 64 GB", "Beeldscherm kwaliteit: Goed", "Snelheidsklasse: Standaard", "Batterijprestatie: Standaard", "Gebruiksgemak volgens klanten: Uitstekend", "Kleur: Goud", "Waterbestendig: Ja", "Dual SIM: Nee", "Vingerafdruk-identiteitssensor: Ja"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 644,
+ 		"productImageIds": [1033405],
+ 		"coolbluesChoiceInformationTitle": "een middenklasse iPhone",
+ 		"promoIcon": {
+ 			"type": "coolblues-choice"
+ 		},
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,5 inch (14 cm) en kleiner"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Goud"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Nee"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Ja"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819304,
+ 		"productName": "Apple iPhone Xs 256 GB Zilver",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9,
+ 				"reviewCount": 158
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 256 GB", "Camerakwaliteit: Uitstekend", "Beeldscherm kwaliteit: Uitstekend", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zilver", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 1329,
+ 		"productImageIds": [1121557],
+ 		"coolbluesChoiceInformationTitle": "een topklasse iPhone",
+ 		"promoIcon": {
+ 			"type": "coolblues-choice"
+ 		},
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["256 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zilver"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819963,
+ 		"productName": "Apple iPhone Xr 128 GB Blauw",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.4,
+ 				"reviewCount": 359
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 128 GB", "Camerakwaliteit: Zeer goed", "Beeldscherm kwaliteit: Standaard", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Blauw", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 899,
+ 		"productImageIds": [1121124],
+ 		"coolbluesChoiceInformationTitle": "een iPhone met de beste batterijduur",
+ 		"promoIcon": {
+ 			"type": "coolblues-choice"
+ 		},
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["128 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Blauw"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 733933,
+ 		"productName": "Apple iPhone 7 128GB Zwart",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.3,
+ 				"reviewCount": 1400
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,5 inch (14 cm) en kleiner", "Totale opslagcapaciteit: 128 GB", "Camerakwaliteit: Goed", "Beeldscherm kwaliteit: Matig", "Snelheidsklasse: Standaard", "Batterijprestatie: Standaard", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Nee", "Vingerafdruk-identiteitssensor: Ja"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 612,
+ 		"productImageIds": [985105],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,5 inch (14 cm) en kleiner"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["128 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Matig"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Nee"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Ja"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 793672,
+ 		"productName": "Apple iPhone 8 Plus 64GB Space Gray",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.3,
+ 				"reviewCount": 389
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,5 tot 5,8 inch (14 - 14,7 cm)", "Totale opslagcapaciteit: 64 GB", "Camerakwaliteit: Zeer goed", "Beeldscherm kwaliteit: Zeer goed", "Snelheidsklasse: Goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Uitstekend", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Nee", "Vingerafdruk-identiteitssensor: Ja"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 799,
+ 		"productImageIds": [1034383],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,5 tot 5,8 inch (14 - 14,7 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Nee"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Ja"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819275,
+ 		"productName": "Apple iPhone Xs 64 GB Zilver",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9,
+ 				"reviewCount": 158
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 64 GB", "Camerakwaliteit: Uitstekend", "Beeldscherm kwaliteit: Uitstekend", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zilver", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 1099,
+ 		"productImageIds": [1121537],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zilver"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819961,
+ 		"productName": "Apple iPhone Xr 128 GB RED",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.4,
+ 				"reviewCount": 359
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 128 GB", "Camerakwaliteit: Zeer goed", "Beeldscherm kwaliteit: Standaard", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Rood", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 899,
+ 		"productImageIds": [1121111],
+ 		"coolbluesChoiceInformationTitle": "een iPhone met de beste batterijduur",
+ 		"promoIcon": {
+ 			"type": "coolblues-choice"
+ 		},
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["128 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Rood"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819332,
+ 		"productName": "Apple iPhone Xs Max 256 GB Space Gray",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.5,
+ 				"reviewCount": 135
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 6,4 inch (16,3 cm) en groter", "Totale opslagcapaciteit: 256 GB", "Camerakwaliteit: Uitstekend", "Beeldscherm kwaliteit: Uitstekend", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Zeer goed", "Gebruiksgemak volgens klanten: Uitstekend", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 1429,
+ 		"productImageIds": [1121653],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["6,4 inch (16,3 cm) en groter"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["256 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 733904,
+ 		"productName": "Apple iPhone 7 32GB Zilver",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.3,
+ 				"reviewCount": 1400
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,5 inch (14 cm) en kleiner", "Totale opslagcapaciteit: 32 GB", "Camerakwaliteit: Goed", "Beeldscherm kwaliteit: Matig", "Snelheidsklasse: Standaard", "Batterijprestatie: Standaard", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zilver", "Waterbestendig: Ja", "Dual SIM: Nee", "Vingerafdruk-identiteitssensor: Ja"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 479,
+ 		"productImageIds": [985084],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,5 inch (14 cm) en kleiner"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["32 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Matig"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zilver"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Nee"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Ja"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 793277,
+ 		"productName": "Apple iPhone X 64GB Space Gray",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.2,
+ 				"reviewCount": 495
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 64 GB", "Camerakwaliteit: Uitstekend", "Beeldscherm kwaliteit: Uitstekend", "Snelheidsklasse: Goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Nee", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 3,
+ 		"salesPriceIncVat": 929,
+ 		"productImageIds": [1033437],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Nee"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819344,
+ 		"productName": "Apple iPhone Xr 64 GB Wit",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.4,
+ 				"reviewCount": 359
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 64 GB", "Camerakwaliteit: Zeer goed", "Beeldscherm kwaliteit: Standaard", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Wit", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 839,
+ 		"productImageIds": [1121126],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Wit"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819950,
+ 		"productName": "Apple iPhone Xr 64 GB RED",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.4,
+ 				"reviewCount": 359
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 64 GB", "Camerakwaliteit: Zeer goed", "Beeldscherm kwaliteit: Standaard", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Rood", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 820,
+ 		"productImageIds": [1121110],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Standaard"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Rood"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819302,
+ 		"productName": "Apple iPhone Xs 64 GB Goud",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9,
+ 				"reviewCount": 158
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 5,8 tot 6,2 inch (14,7 - 15,2 cm)", "Totale opslagcapaciteit: 64 GB", "Camerakwaliteit: Uitstekend", "Beeldscherm kwaliteit: Uitstekend", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Goed", "Gebruiksgemak volgens klanten: Zeer goed", "Kleur: Goud", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 1099,
+ 		"productImageIds": [1121552],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["5,8 tot 6,2 inch (14,7 - 15,2 cm)"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Goud"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}, {
+ 		"productId": 819329,
+ 		"productName": "Apple iPhone Xs Max 64 GB Space Gray",
+ 		"reviewInformation": {
+ 			"reviews": [],
+ 			"reviewSummary": {
+ 				"reviewAverage": 9.5,
+ 				"reviewCount": 135
+ 			}
+ 		},
+ 		"USPs": ["Schermdiagonaal: 6,4 inch (16,3 cm) en groter", "Totale opslagcapaciteit: 64 GB", "Camerakwaliteit: Uitstekend", "Beeldscherm kwaliteit: Uitstekend", "Snelheidsklasse: Zeer goed", "Batterijprestatie: Zeer goed", "Gebruiksgemak volgens klanten: Uitstekend", "Kleur: Zwart", "Waterbestendig: Ja", "Dual SIM: Ja", "Vingerafdruk-identiteitssensor: Nee"],
+ 		"availabilityState": 2,
+ 		"salesPriceIncVat": 1229,
+ 		"productImageIds": [1121636],
+ 		"nextDayDelivery": true,
+ 		"dynamicHighlights": [{
+ 			"label": "Schermdiagonaal",
+ 			"values": ["6,4 inch (16,3 cm) en groter"]
+ 		}, {
+ 			"label": "Totale opslagcapaciteit",
+ 			"values": ["64 GB"]
+ 		}, {
+ 			"label": "Camerakwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Beeldscherm kwaliteit",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Snelheidsklasse",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Batterijprestatie",
+ 			"values": ["Zeer goed"]
+ 		}, {
+ 			"label": "Gebruiksgemak volgens klanten",
+ 			"values": ["Uitstekend"]
+ 		}, {
+ 			"label": "Kleur",
+ 			"values": ["Zwart"]
+ 		}, {
+ 			"label": "Waterbestendig",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Dual SIM",
+ 			"values": ["Ja"]
+ 		}, {
+ 			"label": "Vingerafdruk-identiteitssensor",
+ 			"values": ["Nee"]
+ 		}],
+ 		"cacheAge": 0
+ 	}],
+ 	"currentPage": 1,
+ 	"pageSize": 24,
+ 	"totalResults": 87,
+ 	"pageCount": 4,
+ 	"facets": [{
+ 		"values": [{
+ 			"id": "mobiele-telefoons",
+ 			"label": "Mobiele telefoons",
+ 			"count": 87
+ 		}],
+ 		"displayName": "Categorie",
+ 		"slug": "producttype"
+ 	}, {
+ 		"values": [{
+ 			"id": "apple",
+ 			"label": "Apple",
+ 			"count": 87
+ 		}],
+ 		"displayName": "Merk",
+ 		"slug": "merk"
+ 	}, {
+ 		"values": [{
+ 			"id": "-0.139446",
+ 			"label": "5,5 inch (14 cm) en kleiner",
+ 			"count": 24
+ 		}, {
+ 			"id": "0.1397-0.14731746",
+ 			"label": "5,5 tot 5,8 inch (14 - 14,7 cm)",
+ 			"count": 22
+ 		}, {
+ 			"id": "0.14732-0.15748",
+ 			"label": "5,8 tot 6,2 inch (14,7 - 15,2 cm)",
+ 			"count": 32
+ 		}, {
+ 			"id": "0.163-9000",
+ 			"label": "6,4 inch (16,3 cm) en groter",
+ 			"count": 9
+ 		}],
+ 		"displayName": "Schermdiagonaal",
+ 		"slug": "schermdiagonaal"
+ 	}, {
+ 		"values": [{
+ 			"id": "16000000000",
+ 			"label": "16 GB",
+ 			"count": 2
+ 		}, {
+ 			"id": "32000000000",
+ 			"label": "32 GB",
+ 			"count": 16
+ 		}, {
+ 			"id": "64000000000",
+ 			"label": "64 GB",
+ 			"count": 20
+ 		}, {
+ 			"id": "128000000000",
+ 			"label": "128 GB",
+ 			"count": 23
+ 		}, {
+ 			"id": "256000000000",
+ 			"label": "256 GB",
+ 			"count": 20
+ 		}, {
+ 			"id": "512000000000",
+ 			"label": "512 GB",
+ 			"count": 6
+ 		}],
+ 		"displayName": "Totale opslagcapaciteit",
+ 		"slug": "totale-opslagcapaciteit"
+ 	}, {
+ 		"values": [{
+ 			"id": "goed",
+ 			"label": "Goed",
+ 			"count": 24
+ 		}, {
+ 			"id": "zeer-goed",
+ 			"label": "Zeer goed",
+ 			"count": 33
+ 		}, {
+ 			"id": "uitstekend",
+ 			"label": "Uitstekend",
+ 			"count": 22
+ 		}],
+ 		"displayName": "Camerakwaliteit",
+ 		"slug": "camerakwaliteit"
+ 	}, {
+ 		"values": [{
+ 			"id": "matig",
+ 			"label": "Matig",
+ 			"count": 16
+ 		}, {
+ 			"id": "standaard",
+ 			"label": "Standaard",
+ 			"count": 35
+ 		}, {
+ 			"id": "goed",
+ 			"label": "Goed",
+ 			"count": 6
+ 		}, {
+ 			"id": "zeer-goed",
+ 			"label": "Zeer goed",
+ 			"count": 6
+ 		}, {
+ 			"id": "uitstekend",
+ 			"label": "Uitstekend",
+ 			"count": 22
+ 		}],
+ 		"displayName": "Beeldscherm kwaliteit",
+ 		"slug": "beeldscherm-kwaliteit"
+ 	}, {
+ 		"values": [{
+ 			"id": "standaard",
+ 			"label": "Standaard",
+ 			"count": 31
+ 		}, {
+ 			"id": "goed",
+ 			"label": "Goed",
+ 			"count": 17
+ 		}, {
+ 			"id": "zeer-goed",
+ 			"label": "Zeer goed",
+ 			"count": 37
+ 		}],
+ 		"displayName": "Snelheidsklasse",
+ 		"slug": "snelheidsklasse"
+ 	}, {
+ 		"values": [{
+ 			"id": "standaard",
+ 			"label": "Standaard",
+ 			"count": 22
+ 		}, {
+ 			"id": "goed",
+ 			"label": "Goed",
+ 			"count": 54
+ 		}, {
+ 			"id": "zeer-goed",
+ 			"label": "Zeer goed",
+ 			"count": 9
+ 		}],
+ 		"displayName": "Batterijprestatie",
+ 		"slug": "batterij-prestatie"
+ 	}, {
+ 		"values": [{
+ 			"id": "zeer-goed",
+ 			"label": "Zeer goed",
+ 			"count": 65
+ 		}, {
+ 			"id": "uitstekend",
+ 			"label": "Uitstekend",
+ 			"count": 21
+ 		}],
+ 		"displayName": "Gebruiksgemak volgens klanten",
+ 		"slug": "gebruiksgemak-volgens-klanten"
+ 	}, {
+ 		"values": [{
+ 			"id": "0",
+ 			"label": "Toon alles",
+ 			"count": 87
+ 		}, {
+ 			"id": "1",
+ 			"label": "1 ster en meer",
+ 			"count": 87
+ 		}, {
+ 			"id": "2",
+ 			"label": "2 sterren en meer",
+ 			"count": 87
+ 		}, {
+ 			"id": "3",
+ 			"label": "3 sterren en meer",
+ 			"count": 87
+ 		}, {
+ 			"id": "4",
+ 			"label": "4 sterren en meer",
+ 			"count": 87
+ 		}],
+ 		"displayName": "Reviewscore",
+ 		"slug": "minimum-review-sterren"
+ 	}, {
+ 		"values": [{
+ 			"id": "blauw",
+ 			"label": "Blauw",
+ 			"count": 3
+ 		}, {
+ 			"id": "geel",
+ 			"label": "Geel",
+ 			"count": 3
+ 		}, {
+ 			"id": "goud",
+ 			"label": "Goud",
+ 			"count": 19
+ 		}, {
+ 			"id": "oranje",
+ 			"label": "Oranje",
+ 			"count": 3
+ 		}, {
+ 			"id": "rood",
+ 			"label": "Rood",
+ 			"count": 3
+ 		}, {
+ 			"id": "rose-goud",
+ 			"label": "Ros\u00e9 Goud",
+ 			"count": 6
+ 		}, {
+ 			"id": "roze",
+ 			"label": "Roze",
+ 			"count": 2
+ 		}, {
+ 			"id": "wit",
+ 			"label": "Wit",
+ 			"count": 3
+ 		}, {
+ 			"id": "zilver",
+ 			"label": "Zilver",
+ 			"count": 20
+ 		}, {
+ 			"id": "zwart",
+ 			"label": "Zwart",
+ 			"count": 25
+ 		}],
+ 		"displayName": "Kleur",
+ 		"slug": "kleur"
+ 	}, {
+ 		"values": [{
+ 			"id": "ios",
+ 			"label": "iOS",
+ 			"count": 87
+ 		}],
+ 		"displayName": "Besturingssysteem",
+ 		"slug": "besturingssysteem"
+ 	}, {
+ 		"values": [{
+ 			"id": "ja",
+ 			"label": "Ja",
+ 			"count": 69
+ 		}, {
+ 			"id": "nee",
+ 			"label": "Nee",
+ 			"count": 18
+ 		}],
+ 		"displayName": "Waterbestendig",
+ 		"slug": "waterbestendig"
+ 	}, {
+ 		"values": [{
+ 			"id": "nee",
+ 			"label": "Nee",
+ 			"count": 50
+ 		}, {
+ 			"id": "ja",
+ 			"label": "Ja",
+ 			"count": 37
+ 		}],
+ 		"displayName": "Dual SIM",
+ 		"slug": "dual-sim"
+ 	}, {
+ 		"values": [{
+ 			"id": "ja",
+ 			"label": "Ja",
+ 			"count": 46
+ 		}, {
+ 			"id": "nee",
+ 			"label": "Nee",
+ 			"count": 41
+ 		}],
+ 		"displayName": "Vingerafdruk-identiteitssensor",
+ 		"slug": "vingerafdruk-identiteitssensor"
+ 	}, {
+ 		"values": [{
+ 			"id": "groningen",
+ 			"label": "Groningen",
+ 			"count": 41
+ 		}, {
+ 			"id": "tilburg",
+ 			"label": "Tilburg",
+ 			"count": 42
+ 		}, {
+ 			"id": "amsterdam",
+ 			"label": "Amsterdam",
+ 			"count": 42
+ 		}, {
+ 			"id": "rotterdam",
+ 			"label": "Rotterdam",
+ 			"count": 41
+ 		}, {
+ 			"id": "den-haag",
+ 			"label": "Den Haag",
+ 			"count": 40
+ 		}, {
+ 			"id": "utrecht",
+ 			"label": "Utrecht",
+ 			"count": 42
+ 		}, {
+ 			"id": "eindhoven",
+ 			"label": "Eindhoven",
+ 			"count": 42
+ 		}],
+ 		"displayName": "Op voorraad in de winkel",
+ 		"slug": "ophalen-in-de-winkel"
+ 	}, {
+ 		"values": [{
+ 			"id": "utrecht",
+ 			"label": "Utrecht",
+ 			"count": 6
+ 		}, {
+ 			"id": "amsterdam",
+ 			"label": "Amsterdam",
+ 			"count": 6
+ 		}, {
+ 			"id": "groningen",
+ 			"label": "Groningen",
+ 			"count": 5
+ 		}, {
+ 			"id": "eindhoven",
+ 			"label": "Eindhoven",
+ 			"count": 4
+ 		}, {
+ 			"id": "den-haag",
+ 			"label": "Den Haag",
+ 			"count": 4
+ 		}, {
+ 			"id": "rotterdam",
+ 			"label": "Rotterdam",
+ 			"count": 3
+ 		}, {
+ 			"id": "tilburg",
+ 			"label": "Tilburg",
+ 			"count": 6
+ 		}],
+ 		"displayName": "Ervaar in de winkel",
+ 		"slug": "ervaar-in-de-winkel"
+ 	}, {
+ 		"values": [{
+ 			"id": "ja",
+ 			"label": "Ja",
+ 			"count": 12
+ 		}],
+ 		"displayName": "Coolblue's Keuze",
+ 		"slug": "coolblues-keuze"
+ 	}, {
+ 		"minValue": 329,
+ 		"maxValue": 1649,
+ 		"displayName": "Prijs",
+ 		"slug": "prijs"
+ 	}],
+ 	"filters": []
+ }
