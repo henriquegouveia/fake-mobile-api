@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 32
+Connection: close
+Date: Thu, 08 Aug 2019 09:17:01 GMT
+Server: nginx
+Content-Language: en-NL
+ETag: "1dc8ea2c3c20ca87bfba5162be436ab4"
+Cache-Control: private, no-cache
+X-Response-Time: 1.880ms
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Cache: Miss from cloudfront
+Via: 1.1 71d54b7876b1bb2a16f100390a1bc073.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: AMS50
+X-Amz-Cf-Id: N8liwv8Z-gfzcErQRqT3Md0PJjWff6oQN-dT1kYaNxN6HKku0KeQwQ==
+
+{"canOfferNextDayDelivery":true}

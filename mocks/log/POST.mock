@@ -1,0 +1,17 @@
+HTTP/1.1 204 No Content
+Connection: close
+Date: Mon, 05 Aug 2019 08:33:17 GMT
+Server: nginx
+Content-Language: nl-NL
+ETag: "d41d8cd98f00b204e9800998ecf8427e"
+Cache-Control: private, no-cache
+X-Response-Time: 2.440ms
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Cache: Miss from cloudfront
+Via: 1.1 cdcf1be46a91676588ed8966c4b8eb13.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: LHR62-C3
+X-Amz-Cf-Id: t5T-29puQVkY6G09x9bnniL54qn7PzOHrh1EKqHabwObSD8aVAMQHA==
+
+
